@@ -20,8 +20,8 @@ Built with **LangChain**, **Groq (Llama 3.3 70B)**, **ChromaDB**, and **HuggingF
 ## 🖼️ Demo
 
 | Upload & Ask | Chat Flow |
-|---|---|
-| ![Upload and query](screenshot1.png) | ![Follow-up conversation](screenshot2.png) |
+<img width="1482" height="587" alt="Screenshot 2026-07-19 173340" src="https://github.com/user-attachments/assets/9fa5873d-7ff3-4b83-9d95-e1994d7cae49" />
+
 
 > Example: after asking *"What are transformers in detail?"*, a follow-up like *"What is attention and can you give the formula?"* is understood in context — and the bot can even summarize the whole conversation on request.
 
